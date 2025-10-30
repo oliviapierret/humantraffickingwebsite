@@ -70,6 +70,14 @@ p {
     font-weight: 300;
 }
 
+.iceberg-visual {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
 /* FADE IN ANIMATIONS */
 .fade-in {
     opacity: 0;
