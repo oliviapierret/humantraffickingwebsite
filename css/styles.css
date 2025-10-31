@@ -250,3 +250,8 @@ blockquote {
     color: #000000;              
     border-color: #ffffff;
 }
+
+/* Center the "Explore the Data" header */
+section .content h2 {
+  text-align: center;
+}
